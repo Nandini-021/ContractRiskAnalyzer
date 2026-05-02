@@ -7,27 +7,6 @@ The app also highlights positive elements in the contract, provides export optio
 
 
 
----
-
-## Quick Start
-
-1. **Install dependencies**
-
-   ```bash
-   npm install
-   ```
-
-2. **Install Tailwind CSS (if not already installed)**
-
-   ```bash
-   npm install -D tailwindcss
-   ```
-
-3. **Run the project**
-
-   ```bash
-   npm run dev
-   ```
 
 ---
 
@@ -82,7 +61,7 @@ The app also highlights positive elements in the contract, provides export optio
 
 ## Project Structure (High Level)
 
-> This is a simplified overview; adjust to match your exact folders if needed.
+> This is a simplified overview
 
 - `/src` – main frontend code (TypeScript, components, pages)  
 - `/images` – static assets (logos, screenshots, etc.)  
@@ -108,7 +87,11 @@ The app also highlights positive elements in the contract, provides export optio
    ```bash
    npm install
    ```
+3. **Install Tailwind CSS (if not already installed)**
 
+   ```bash
+   npm install -D tailwindcss
+   ```
 3. **Set up Supabase**
 
    - Create a project at <https://supabase.com>.  
