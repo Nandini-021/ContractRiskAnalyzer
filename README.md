@@ -5,7 +5,7 @@ Welcome to the **Contract Risk Analyzer** project.
 Contract Risk Analyzer is a web application that lets users sign up, upload contract PDFs, and get an automatic risk analysis (High / Medium / Low).  
 The app also highlights positive elements in the contract, provides export options for the analysis, and maintains a history of the user’s previously analyzed contracts.
 
-> Note: This project was initially scaffolded using a template and then customized with Supabase, Tailwind CSS, and TypeScript.
+
 
 ---
 
@@ -99,7 +99,7 @@ The app also highlights positive elements in the contract, provides export optio
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/contract-risk-analyzer.git
+   git clone https://github.com/Nandini-021/ContractRiskAnalyzer.git
    cd contract-risk-analyzer
    ```
 
