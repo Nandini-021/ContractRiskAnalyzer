@@ -130,7 +130,7 @@ The app also highlights positive elements in the contract, provides export optio
 
 5. **Open the app**
 
-   - Go to `http://localhost:5173` (or the port shown in your terminal when Vite starts).
+   - Go to `http://localhost:8080` (or the port shown in your terminal when Vite starts).
 
 ---
 
